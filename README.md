@@ -1,5 +1,3 @@
-# Game_of_Life
-The Game of Life is a simple yet powerful simulation that demonstrates how complex behavior can emerge from a small set of simple rules.
 
 # Game of Life in C++
 
@@ -9,24 +7,26 @@ This is an implementation of John Conway's Game of Life in C++. The Game of Life
 
 ## Requirements
 - A C++ compiler (e.g. GCC)
-- SFML library for visualization
 
 ## Installation
-# 1. Clone the repository:
-git clone https://github.com/user/game-of-life-c++
-
-# 2. Install SFML library:
-sudo apt-get install libsfml-dev
-
-# 3. Compile the source code:
+#### 1. Clone the repository:
+git clone https://github.com/Anas1108/Game_of_Life
+#### 3. Compile the source code:
 g++ -o game-of-life main.cpp
 
-
 ## Usage
-# Run the compiled binary:
+### Run the compiled binary:
 ./game-of-life
 
-Use the mouse to create/remove cells and press the spacebar to start/pause the simulation.
+## Input
+- The program takes the size of the grid and the initial state of the cells as input.
+
+## Output
+- The program outputs the grid after each iteration, showing the state of the cells.
+
+## Note
+- The program uses an ASCII art representation of the grid, with 'X' representing a live cell and '-' representing a dead cell.
+- The program runs until the grid reaches a steady state or the maximum number of iterations has been reached.
 
 ## Contributing
 Feel free to contribute to this project by creating pull requests or reporting bugs.
