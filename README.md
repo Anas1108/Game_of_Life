@@ -10,9 +10,9 @@ This is an implementation of John Conway's Game of Life in C++. The Game of Life
 
 ## Installation
 - ### Clone the repository:
--- git clone https://github.com/Anas1108/Game_of_Life
+ git clone https://github.com/Anas1108/Game_of_Life
 - ### Compile the source code:
--- g++ -o game-of-life main.cpp
+ g++ -o game-of-life main.cpp
 
 ## Usage
 ### Run the compiled binary:
@@ -23,7 +23,7 @@ This is an implementation of John Conway's Game of Life in C++. The Game of Life
 
 ## Output
 - The program outputs the grid after each iteration, showing the state of the cells.
-- ![Screenshot of the Game of Life program](GameOfLifeoutput.PNG)
+![](GameOfLifeoutput.PNG)
 
 ## Note
 - The program uses an ASCII art representation of the grid, with 'X' representing a live cell and '-' representing a dead cell.
