@@ -23,6 +23,7 @@ g++ -o game-of-life main.cpp
 
 ## Output
 - The program outputs the grid after each iteration, showing the state of the cells.
+![Screenshot of the Game of Life program](screenshot.png)
 
 ## Note
 - The program uses an ASCII art representation of the grid, with 'X' representing a live cell and '-' representing a dead cell.
