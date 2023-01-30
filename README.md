@@ -9,10 +9,10 @@ This is an implementation of John Conway's Game of Life in C++. The Game of Life
 - A C++ compiler (e.g. GCC)
 
 ## Installation
-#### 1. Clone the repository:
-git clone https://github.com/Anas1108/Game_of_Life
-#### 3. Compile the source code:
-g++ -o game-of-life main.cpp
+- ### Clone the repository:
+-- git clone https://github.com/Anas1108/Game_of_Life
+- ### Compile the source code:
+-- g++ -o game-of-life main.cpp
 
 ## Usage
 ### Run the compiled binary:
