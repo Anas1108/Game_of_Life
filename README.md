@@ -12,11 +12,11 @@ This is an implementation of John Conway's Game of Life in C++. The Game of Life
 - ### Clone the repository:
    git clone https://github.com/Anas1108/Game_of_Life
 - ### Compile the source code:
-   g++ -o game-of-life main.cpp
+   g++ -o GameOfLife main.cpp
 
 ## Usage
 ### Run the compiled binary:
-./game-of-life
+./GameOfLife
 
 ## Input
 - The program takes the size of the grid and the initial state of the cells as input.
